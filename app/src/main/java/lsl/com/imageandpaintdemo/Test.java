@@ -1,6 +1,6 @@
 package lsl.com.imageandpaintdemo;
 
-/** ²âÊÔÀà
+/** æµ‹è¯•ç±»
  * Created by M1308_000 on 2017/4/13.
  */
 
